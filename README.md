@@ -8,7 +8,7 @@ Brief Description:
     Design an API endpoint that receives user input and outputs a personalized greeting, such as "Hello, {user's name}."
     Utilize Postman to facilitate the data retrieval process.
 
-Peer:
+Peer: Bowen Henry
 
-Review:
+Review: Your code looks good and works properly, I like how you chose interpolation. Good work
 ""
